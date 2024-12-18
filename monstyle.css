@@ -1,0 +1,118 @@
+h1 {
+color : green;
+font-family : verdana;
+font-size : 52pt;
+}
+
+#image1 {
+  max-width: 67%; 
+  max-height: 45%;
+}
+
+#image1 {
+position : absolute;
+top : 100px;
+left : 52px;
+}
+
+#image2 {
+  max-width: 67%; 
+  max-height: 45%;
+}
+
+#image2 {
+position : absolute;
+top : 100px;
+left : 480px;
+}
+
+#image3 {
+  max-width: 67%; 
+  max-height: 45%;
+}
+
+#image3 {
+position : absolute;
+top : 100px;
+left : 825px;
+}
+
+#yo {
+font-size : 17pt;
+font-family : Bahnschrift Light;
+position: absolute; top :350px;
+}
+
+li {
+position: absolute; top :500px;
+font-size : 22pt;
+}
+
+.important {
+position: absolute; top :530px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+#important {
+position: absolute; top :730px;
+font-size : 22pt;
+}
+
+.secondary {
+position: absolute; top :760px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+#caca {
+position: absolute; top :890px;
+font-size : 22pt;
+}
+
+.caca {
+position: absolute; top :920px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+#pipi {
+position: absolute; top :1070px;
+font-size : 22pt;
+}
+
+.pipi {
+position: absolute; top :1100px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+#papa {
+position: absolute; top :1200px;
+font-size : 22pt;
+}
+
+.papa {
+position: absolute; top :1230px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+#pupu {
+position: absolute; top :1360px;
+font-size : 22pt;
+}
+
+.pupu {
+position: absolute; top :1390px;
+font-size : 14pt;
+font-family : Bahnschrift Light;
+}
+
+body {
+background-color: lightblue;
+        }
+
+a {
+position: absolute; top :1555px;
+}
